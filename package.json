@@ -54,7 +54,7 @@
     "core-js": "^3.6.5",
     "cp-cli": "^2.0.0",
     "env-var": "^7.1.1",
-    "mongoose": "^6.2.1",
+    "mongoose": "^6.11.3",
     "nestjs-algolia": "^4.0.0",
     "nestjs-console": "^7.0.1",
     "react": "17.0.2",
